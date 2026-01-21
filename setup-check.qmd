@@ -1,6 +1,6 @@
 ---
 title: "Setup Check"
-author: "YOUR NAME"
+author: "Kamran KHAN"
 date: today
 format: html
 ---
